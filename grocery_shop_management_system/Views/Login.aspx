@@ -16,8 +16,8 @@
             <div class="col-md-4">
                 <img src="../Assets/login.jpg" class="img-fluid"/>
             </div>
-            <div class="col-md-4">
-                <h1 class="text-danger">LogIn</h1>
+            <div class="col-md-4 card border-danger">
+                <h1 class="text-danger card-title">LogIn</h1>
                 <form runat="server">
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label">Email address</label>
